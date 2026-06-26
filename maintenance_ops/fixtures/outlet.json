@@ -1,0 +1,1199 @@
+[
+  {
+    "doctype": "Outlet",
+    "name": "PAM",
+    "outlet_code": "PAM",
+    "outlet_name": "PAM",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BGR",
+    "outlet_code": "BGR",
+    "outlet_name": "BGR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VAI",
+    "outlet_code": "VAI",
+    "outlet_name": "VAI",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "TAT",
+    "outlet_code": "TAT",
+    "outlet_name": "TAT",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PHC",
+    "outlet_code": "PHC",
+    "outlet_name": "PHC",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SBG",
+    "outlet_code": "SBG",
+    "outlet_name": "SBG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "JAL",
+    "outlet_code": "JAL",
+    "outlet_name": "JAL",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FRC",
+    "outlet_code": "FRC",
+    "outlet_name": "FRC",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SRI",
+    "outlet_code": "SRI",
+    "outlet_name": "SRI",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "QTF",
+    "outlet_code": "QTF",
+    "outlet_name": "QTF",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CYC",
+    "outlet_code": "CYC",
+    "outlet_name": "CYC",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GNJ",
+    "outlet_code": "GNJ",
+    "outlet_name": "GNJ",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "RNE",
+    "outlet_code": "RNE",
+    "outlet_name": "RNE",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "HSO",
+    "outlet_code": "HSO",
+    "outlet_name": "HSO",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BRK",
+    "outlet_code": "BRK",
+    "outlet_name": "BRK",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SOG",
+    "outlet_code": "SOG",
+    "outlet_name": "SOG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "AMB",
+    "outlet_code": "AMB",
+    "outlet_name": "AMB",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DLG",
+    "outlet_code": "DLG",
+    "outlet_name": "DLG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GOT",
+    "outlet_code": "GOT",
+    "outlet_name": "GOT",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "UEP",
+    "outlet_code": "UEP",
+    "outlet_name": "UEP",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MOA",
+    "outlet_code": "MOA",
+    "outlet_name": "MOA",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VEG",
+    "outlet_code": "VEG",
+    "outlet_name": "VEG",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "NKG",
+    "outlet_code": "NKG",
+    "outlet_name": "NKG",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KGB",
+    "outlet_code": "KGB",
+    "outlet_name": "KGB",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PKN",
+    "outlet_code": "PKN",
+    "outlet_name": "PKN",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CRM",
+    "outlet_code": "CRM",
+    "outlet_name": "CRM",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "LOG",
+    "outlet_code": "LOG",
+    "outlet_name": "LOG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BAV",
+    "outlet_code": "BAV",
+    "outlet_name": "BAV",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SIN",
+    "outlet_code": "SIN",
+    "outlet_name": "SIN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FCK",
+    "outlet_code": "FCK",
+    "outlet_name": "FCK",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KOK",
+    "outlet_code": "KOK",
+    "outlet_name": "KOK",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MTM",
+    "outlet_code": "MTM",
+    "outlet_name": "MTM",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FKM",
+    "outlet_code": "FKM",
+    "outlet_name": "FKM",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "WST",
+    "outlet_code": "WST",
+    "outlet_name": "WST",
+    "city": "Pune",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PAD",
+    "outlet_code": "PAD",
+    "outlet_name": "PAD",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "NEX",
+    "outlet_code": "NEX",
+    "outlet_name": "NEX",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MFT",
+    "outlet_code": "MFT",
+    "outlet_name": "MFT",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "WHT",
+    "outlet_code": "WHT",
+    "outlet_name": "WHT",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "HKZ",
+    "outlet_code": "HKZ",
+    "outlet_name": "HKZ",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SHA",
+    "outlet_code": "SHA",
+    "outlet_name": "SHA",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "RAJ",
+    "outlet_code": "RAJ",
+    "outlet_name": "RAJ",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PTG",
+    "outlet_code": "PTG",
+    "outlet_name": "PTG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "TGN",
+    "outlet_code": "TGN",
+    "outlet_name": "TGN",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MAY",
+    "outlet_code": "MAY",
+    "outlet_name": "MAY",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "AMZ",
+    "outlet_code": "AMZ",
+    "outlet_name": "AMZ",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DLT",
+    "outlet_code": "DLT",
+    "outlet_name": "DLT",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MMM",
+    "outlet_code": "MMM",
+    "outlet_name": "MMM",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BOM",
+    "outlet_code": "BOM",
+    "outlet_name": "BOM",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "OPP",
+    "outlet_code": "OPP",
+    "outlet_name": "OPP",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PER",
+    "outlet_code": "PER",
+    "outlet_name": "PER",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "AYN",
+    "outlet_code": "AYN",
+    "outlet_name": "AYN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "NUN",
+    "outlet_code": "NUN",
+    "outlet_name": "NUN",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "JAY",
+    "outlet_code": "JAY",
+    "outlet_name": "JAY",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MOM",
+    "outlet_code": "MOM",
+    "outlet_name": "MOM",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VRA",
+    "outlet_code": "VRA",
+    "outlet_name": "VRA",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VIR",
+    "outlet_code": "VIR",
+    "outlet_name": "VIR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VEL",
+    "outlet_code": "VEL",
+    "outlet_name": "VEL",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "VBP",
+    "outlet_code": "VBP",
+    "outlet_name": "VBP",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SYH",
+    "outlet_code": "SYH",
+    "outlet_name": "SYH",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "STN",
+    "outlet_code": "STN",
+    "outlet_name": "STN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SMR",
+    "outlet_code": "SMR",
+    "outlet_name": "SMR",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SKO",
+    "outlet_code": "SKO",
+    "outlet_name": "SKO",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SJP",
+    "outlet_code": "SJP",
+    "outlet_name": "SJP",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SHV",
+    "outlet_code": "SHV",
+    "outlet_name": "SHV",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SFC",
+    "outlet_code": "SFC",
+    "outlet_name": "SFC",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SES",
+    "outlet_code": "SES",
+    "outlet_name": "SES",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SCK",
+    "outlet_code": "SCK",
+    "outlet_name": "SCK",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "SCH",
+    "outlet_code": "SCH",
+    "outlet_name": "SCH",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "RRR",
+    "outlet_code": "RRR",
+    "outlet_name": "RRR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ROH",
+    "outlet_code": "ROH",
+    "outlet_name": "ROH",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "RMZ",
+    "outlet_code": "RMZ",
+    "outlet_name": "RMZ",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "RGA",
+    "outlet_code": "RGA",
+    "outlet_name": "RGA",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PTP",
+    "outlet_code": "PTP",
+    "outlet_name": "PTP",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PRM",
+    "outlet_code": "PRM",
+    "outlet_name": "PRM",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PPM",
+    "outlet_code": "PPM",
+    "outlet_name": "PPM",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "PBF",
+    "outlet_code": "PBF",
+    "outlet_name": "PBF",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ORW",
+    "outlet_code": "ORW",
+    "outlet_name": "ORW",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "NSS",
+    "outlet_code": "NSS",
+    "outlet_name": "NSS",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "MAN",
+    "outlet_code": "MAN",
+    "outlet_name": "MAN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "LTP",
+    "outlet_code": "LTP",
+    "outlet_name": "LTP",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KTP",
+    "outlet_code": "KTP",
+    "outlet_name": "KTP",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KOR",
+    "outlet_code": "KOR",
+    "outlet_name": "KOR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KNP",
+    "outlet_code": "KNP",
+    "outlet_name": "KNP",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KCK",
+    "outlet_code": "KCK",
+    "outlet_name": "KCK",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KBB",
+    "outlet_code": "KBB",
+    "outlet_name": "KBB",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "KAM",
+    "outlet_code": "KAM",
+    "outlet_name": "KAM",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "JPN",
+    "outlet_code": "JPN",
+    "outlet_name": "JPN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "JIG",
+    "outlet_code": "JIG",
+    "outlet_name": "JIG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "JAP",
+    "outlet_code": "JAP",
+    "outlet_name": "JAP",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ITP",
+    "outlet_code": "ITP",
+    "outlet_name": "ITP",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "IND",
+    "outlet_code": "IND",
+    "outlet_name": "IND",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "IHY",
+    "outlet_code": "IHY",
+    "outlet_name": "IHY",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "IBC",
+    "outlet_code": "IBC",
+    "outlet_name": "IBC",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "HSR",
+    "outlet_code": "HSR",
+    "outlet_name": "HSR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "HIM",
+    "outlet_code": "HIM",
+    "outlet_name": "HIM",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GSM",
+    "outlet_code": "GSM",
+    "outlet_name": "GSM",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GSC",
+    "outlet_code": "GSC",
+    "outlet_name": "GSC",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GEB",
+    "outlet_code": "GEB",
+    "outlet_name": "GEB",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "GCN",
+    "outlet_code": "GCN",
+    "outlet_name": "GCN",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FSM",
+    "outlet_code": "FSM",
+    "outlet_name": "FSM",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FLM",
+    "outlet_code": "FLM",
+    "outlet_name": "FLM",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "FDN",
+    "outlet_code": "FDN",
+    "outlet_name": "FDN",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "EXA",
+    "outlet_code": "EXA",
+    "outlet_name": "EXA",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ETF",
+    "outlet_code": "ETF",
+    "outlet_name": "ETF",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "EST",
+    "outlet_code": "EST",
+    "outlet_name": "EST",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "EKL",
+    "outlet_code": "EKL",
+    "outlet_name": "EKL",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "EGL",
+    "outlet_code": "EGL",
+    "outlet_name": "EGL",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ECW",
+    "outlet_code": "ECW",
+    "outlet_name": "ECW",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ECT",
+    "outlet_code": "ECT",
+    "outlet_name": "ECT",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ECN",
+    "outlet_code": "ECN",
+    "outlet_name": "ECN",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DWR",
+    "outlet_code": "DWR",
+    "outlet_name": "DWR",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DTK",
+    "outlet_code": "DTK",
+    "outlet_name": "DTK",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DSL",
+    "outlet_code": "DSL",
+    "outlet_name": "DSL",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DLP",
+    "outlet_code": "DLP",
+    "outlet_name": "DLP",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DIV",
+    "outlet_code": "DIV",
+    "outlet_name": "DIV",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DCH",
+    "outlet_code": "DCH",
+    "outlet_name": "DCH",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "DCB",
+    "outlet_code": "DCB",
+    "outlet_name": "DCB",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CYG",
+    "outlet_code": "CYG",
+    "outlet_name": "CYG",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CVR",
+    "outlet_code": "CVR",
+    "outlet_name": "CVR",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CPM",
+    "outlet_code": "CPM",
+    "outlet_name": "CPM",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CLA",
+    "outlet_code": "CLA",
+    "outlet_name": "CLA",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "CAR",
+    "outlet_code": "CAR",
+    "outlet_name": "CAR",
+    "city": "Chennai",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BVG",
+    "outlet_code": "BVG",
+    "outlet_name": "BVG",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BTG",
+    "outlet_code": "BTG",
+    "outlet_name": "BTG",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BNJ",
+    "outlet_code": "BNJ",
+    "outlet_name": "BNJ",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "BAG",
+    "outlet_code": "BAG",
+    "outlet_name": "BAG",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "AVK",
+    "outlet_code": "AVK",
+    "outlet_name": "AVK",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ATT",
+    "outlet_code": "ATT",
+    "outlet_name": "ATT",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ATL",
+    "outlet_code": "ATL",
+    "outlet_name": "ATL",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ARK",
+    "outlet_code": "ARK",
+    "outlet_name": "ARK",
+    "city": "Bengaluru",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ANN",
+    "outlet_code": "ANN",
+    "outlet_name": "ANN",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "AKA",
+    "outlet_code": "AKA",
+    "outlet_name": "AKA",
+    "city": "Hyderabad",
+    "zonal_office": null,
+    "active": 1
+  },
+  {
+    "doctype": "Outlet",
+    "name": "ADM",
+    "outlet_code": "ADM",
+    "outlet_name": "ADM",
+    "city": "Delhi/NCR",
+    "zonal_office": null,
+    "active": 1
+  }
+]

@@ -1,0 +1,996 @@
+[
+  {
+    "doctype": "Asset",
+    "name": "CPM-Walk-IN Chiller",
+    "asset_code": "CPM-Walk-IN Chiller",
+    "asset_name": "CPM-Walk-IN Chiller",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-AC",
+    "asset_code": "AKA-AC",
+    "asset_name": "AKA-AC",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Fire Extinguisher",
+    "asset_code": "CPM-Fire Extinguisher",
+    "asset_name": "CPM-Fire Extinguisher",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-WIC",
+    "asset_code": "BAG-WIC",
+    "asset_name": "BAG-WIC",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-WIC",
+    "asset_code": "ARK-WIC",
+    "asset_name": "ARK-WIC",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Walk in Chiller",
+    "asset_code": "CPM-Walk in Chiller",
+    "asset_name": "CPM-Walk in Chiller",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Fryers",
+    "asset_code": "CAR-Fryers",
+    "asset_name": "CAR-Fryers",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Fire Ext.",
+    "asset_code": "CAR-Fire Ext.",
+    "asset_name": "CAR-Fire Ext.",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Fire Extinguisher",
+    "asset_code": "AKA-Fire Extinguisher",
+    "asset_name": "AKA-Fire Extinguisher",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Walk-IN Chiller",
+    "asset_code": "WST-Walk-IN Chiller",
+    "asset_name": "WST-Walk-IN Chiller",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-AC",
+    "asset_code": "ATL-AC",
+    "asset_name": "ATL-AC",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Hot Line/Warmer",
+    "asset_code": "AKA-Hot Line/Warmer",
+    "asset_name": "AKA-Hot Line/Warmer",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Fire Ext.",
+    "asset_code": "ARK-Fire Ext.",
+    "asset_name": "ARK-Fire Ext.",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Tortila Press",
+    "asset_code": "ATL-Tortila Press",
+    "asset_name": "ATL-Tortila Press",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Chest Freezer",
+    "asset_code": "BTG-Chest Freezer",
+    "asset_name": "BTG-Chest Freezer",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Fire Extinguisher",
+    "asset_code": "WST-Fire Extinguisher",
+    "asset_name": "WST-Fire Extinguisher",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Fryers",
+    "asset_code": "ATL-Fryers",
+    "asset_name": "ATL-Fryers",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Walk in Chiller",
+    "asset_code": "ARK-Walk in Chiller",
+    "asset_name": "ARK-Walk in Chiller",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Fire Ext.",
+    "asset_code": "ATL-Fire Ext.",
+    "asset_name": "ATL-Fire Ext.",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Walk in Chiller",
+    "asset_code": "BTG-Walk in Chiller",
+    "asset_name": "BTG-Walk in Chiller",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Walk-IN Chiller",
+    "asset_code": "ATL-Walk-IN Chiller",
+    "asset_name": "ATL-Walk-IN Chiller",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Fire Extingushers",
+    "asset_code": "ARK-Fire Extingushers",
+    "asset_name": "ARK-Fire Extingushers",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-AC",
+    "asset_code": "WST-AC",
+    "asset_name": "WST-AC",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Walk in Chiller",
+    "asset_code": "ADM-Walk in Chiller",
+    "asset_name": "ADM-Walk in Chiller",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-RO Plant",
+    "asset_code": "BAG-RO Plant",
+    "asset_name": "BAG-RO Plant",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Fire Extingushers",
+    "asset_code": "WST-Fire Extingushers",
+    "asset_name": "WST-Fire Extingushers",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Aircon Unit",
+    "asset_code": "BAG-Aircon Unit",
+    "asset_name": "BAG-Aircon Unit",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Tortila Press",
+    "asset_code": "BAG-Tortila Press",
+    "asset_name": "BAG-Tortila Press",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Fire Extingushers",
+    "asset_code": "BTG-Fire Extingushers",
+    "asset_name": "BTG-Fire Extingushers",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Kitchen Exhaust Fan",
+    "asset_code": "CAR-Kitchen Exhaust Fan",
+    "asset_name": "CAR-Kitchen Exhaust Fan",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Tortila Press",
+    "asset_code": "WST-Tortila Press",
+    "asset_name": "WST-Tortila Press",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Fryers",
+    "asset_code": "ARK-Fryers",
+    "asset_name": "ARK-Fryers",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Drain Lines / Grease Trap",
+    "asset_code": "ATL-Drain Lines / Grease Trap",
+    "asset_name": "ATL-Drain Lines / Grease Trap",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Walk-IN Chiller",
+    "asset_code": "BAG-Walk-IN Chiller",
+    "asset_name": "BAG-Walk-IN Chiller",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-AC",
+    "asset_code": "ARK-AC",
+    "asset_name": "ARK-AC",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-A/C Plant",
+    "asset_code": "ADM-A/C Plant",
+    "asset_name": "ADM-A/C Plant",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Hot Line/Warmer",
+    "asset_code": "ADM-Hot Line/Warmer",
+    "asset_name": "ADM-Hot Line/Warmer",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Walk-IN Chiller",
+    "asset_code": "CAR-Walk-IN Chiller",
+    "asset_name": "CAR-Walk-IN Chiller",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Kitchen Exhaust Fan",
+    "asset_code": "WST-Kitchen Exhaust Fan",
+    "asset_name": "WST-Kitchen Exhaust Fan",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Fire Extinguisher",
+    "asset_code": "ATL-Fire Extinguisher",
+    "asset_name": "ATL-Fire Extinguisher",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-DG Set & AMF Panel",
+    "asset_code": "ATL-DG Set & AMF Panel",
+    "asset_name": "ATL-DG Set & AMF Panel",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Drain Lines / Grease Trap",
+    "asset_code": "ARK-Drain Lines / Grease Trap",
+    "asset_name": "ARK-Drain Lines / Grease Trap",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Chest Freezer",
+    "asset_code": "ANN-Chest Freezer",
+    "asset_name": "ANN-Chest Freezer",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-A/C Plant",
+    "asset_code": "AKA-A/C Plant",
+    "asset_name": "AKA-A/C Plant",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Chest Freezer",
+    "asset_code": "BAG-Chest Freezer",
+    "asset_name": "BAG-Chest Freezer",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-WIC",
+    "asset_code": "ATL-WIC",
+    "asset_name": "ATL-WIC",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-AC",
+    "asset_code": "CAR-AC",
+    "asset_name": "CAR-AC",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Fire Ext.",
+    "asset_code": "ADM-Fire Ext.",
+    "asset_name": "ADM-Fire Ext.",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Kitchen Exhaust Fan",
+    "asset_code": "ADM-Kitchen Exhaust Fan",
+    "asset_name": "ADM-Kitchen Exhaust Fan",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Tortila Press",
+    "asset_code": "CPM-Tortila Press",
+    "asset_name": "CPM-Tortila Press",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-AC",
+    "asset_code": "BTG-AC",
+    "asset_name": "BTG-AC",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-DG Set & AMF Panel",
+    "asset_code": "BTG-DG Set & AMF Panel",
+    "asset_name": "BTG-DG Set & AMF Panel",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Chest Freezer",
+    "asset_code": "CAR-Chest Freezer",
+    "asset_name": "CAR-Chest Freezer",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Tortila Press",
+    "asset_code": "BTG-Tortila Press",
+    "asset_name": "BTG-Tortila Press",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Chest Freezer",
+    "asset_code": "ADM-Chest Freezer",
+    "asset_name": "ADM-Chest Freezer",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-RO Plant",
+    "asset_code": "CAR-RO Plant",
+    "asset_name": "CAR-RO Plant",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Aircon Unit",
+    "asset_code": "CPM-Aircon Unit",
+    "asset_name": "CPM-Aircon Unit",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Fire Extingushers",
+    "asset_code": "CPM-Fire Extingushers",
+    "asset_name": "CPM-Fire Extingushers",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Hot Line/Warmer",
+    "asset_code": "ATL-Hot Line/Warmer",
+    "asset_name": "ATL-Hot Line/Warmer",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Drain Lines / Grease Trap",
+    "asset_code": "CPM-Drain Lines / Grease Trap",
+    "asset_name": "CPM-Drain Lines / Grease Trap",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Hot Line/Warmer",
+    "asset_code": "BAG-Hot Line/Warmer",
+    "asset_name": "BAG-Hot Line/Warmer",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Kitchen Exhaust Fan",
+    "asset_code": "BTG-Kitchen Exhaust Fan",
+    "asset_name": "BTG-Kitchen Exhaust Fan",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Chest Freezer",
+    "asset_code": "CPM-Chest Freezer",
+    "asset_name": "CPM-Chest Freezer",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Fryers",
+    "asset_code": "AKA-Fryers",
+    "asset_name": "AKA-Fryers",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-RO Plant",
+    "asset_code": "ARK-RO Plant",
+    "asset_name": "ARK-RO Plant",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-A/C Plant",
+    "asset_code": "ATL-A/C Plant",
+    "asset_name": "ATL-A/C Plant",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Walk-IN Chiller",
+    "asset_code": "AKA-Walk-IN Chiller",
+    "asset_name": "AKA-Walk-IN Chiller",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Hot Line/Warmer",
+    "asset_code": "CPM-Hot Line/Warmer",
+    "asset_name": "CPM-Hot Line/Warmer",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Chest Freezer",
+    "asset_code": "ARK-Chest Freezer",
+    "asset_name": "ARK-Chest Freezer",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Walk in Chiller",
+    "asset_code": "WST-Walk in Chiller",
+    "asset_name": "WST-Walk in Chiller",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Fryers",
+    "asset_code": "CPM-Fryers",
+    "asset_name": "CPM-Fryers",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Chest Freezer",
+    "asset_code": "AKA-Chest Freezer",
+    "asset_name": "AKA-Chest Freezer",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Walk-IN Chiller",
+    "asset_code": "ADM-Walk-IN Chiller",
+    "asset_name": "ADM-Walk-IN Chiller",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Kitchen Exhaust Fan",
+    "asset_code": "ANN-Kitchen Exhaust Fan",
+    "asset_name": "ANN-Kitchen Exhaust Fan",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Drain Lines / Grease Trap",
+    "asset_code": "WST-Drain Lines / Grease Trap",
+    "asset_name": "WST-Drain Lines / Grease Trap",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_code": "ANN-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_name": "ANN-Air Conditioner / AC Plant / FCU / AHU",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Tortila Press",
+    "asset_code": "ADM-Tortila Press",
+    "asset_name": "ADM-Tortila Press",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Chest Freezer",
+    "asset_code": "WST-Chest Freezer",
+    "asset_name": "WST-Chest Freezer",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Fire Ext.",
+    "asset_code": "BAG-Fire Ext.",
+    "asset_name": "BAG-Fire Ext.",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-RO Plant",
+    "asset_code": "ATL-RO Plant",
+    "asset_name": "ATL-RO Plant",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Drain Lines / Grease Trap",
+    "asset_code": "CAR-Drain Lines / Grease Trap",
+    "asset_name": "CAR-Drain Lines / Grease Trap",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Aircon Unit",
+    "asset_code": "ADM-Aircon Unit",
+    "asset_name": "ADM-Aircon Unit",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-RO Plant",
+    "asset_code": "WST-RO Plant",
+    "asset_name": "WST-RO Plant",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-DG Set & AMF Panel",
+    "asset_code": "AKA-DG Set & AMF Panel",
+    "asset_name": "AKA-DG Set & AMF Panel",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Hot Line/Warmer",
+    "asset_code": "ARK-Hot Line/Warmer",
+    "asset_name": "ARK-Hot Line/Warmer",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Fire Ext.",
+    "asset_code": "ANN-Fire Ext.",
+    "asset_name": "ANN-Fire Ext.",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_code": "ADM-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_name": "ADM-Air Conditioner / AC Plant / FCU / AHU",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-DG Set & AMF Panel",
+    "asset_code": "ANN-DG Set & AMF Panel",
+    "asset_name": "ANN-DG Set & AMF Panel",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Walk in Chiller",
+    "asset_code": "CAR-Walk in Chiller",
+    "asset_name": "CAR-Walk in Chiller",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Drain Lines / Grease Trap",
+    "asset_code": "BTG-Drain Lines / Grease Trap",
+    "asset_name": "BTG-Drain Lines / Grease Trap",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Aircon Unit",
+    "asset_code": "WST-Aircon Unit",
+    "asset_name": "WST-Aircon Unit",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Kitchen Exhaust Fan",
+    "asset_code": "BAG-Kitchen Exhaust Fan",
+    "asset_name": "BAG-Kitchen Exhaust Fan",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Aircon Unit",
+    "asset_code": "BTG-Aircon Unit",
+    "asset_name": "BTG-Aircon Unit",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-AC",
+    "asset_code": "BAG-AC",
+    "asset_name": "BAG-AC",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-RO Plant",
+    "asset_code": "AKA-RO Plant",
+    "asset_name": "AKA-RO Plant",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Fire Extingushers",
+    "asset_code": "AKA-Fire Extingushers",
+    "asset_name": "AKA-Fire Extingushers",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Hot Line/Warmer",
+    "asset_code": "BTG-Hot Line/Warmer",
+    "asset_name": "BTG-Hot Line/Warmer",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Aircon Unit",
+    "asset_code": "ATL-Aircon Unit",
+    "asset_name": "ATL-Aircon Unit",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Aircon Unit",
+    "asset_code": "ANN-Aircon Unit",
+    "asset_name": "ANN-Aircon Unit",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-DG Set & AMF Panel",
+    "asset_code": "CPM-DG Set & AMF Panel",
+    "asset_name": "CPM-DG Set & AMF Panel",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-A/C Plant",
+    "asset_code": "ARK-A/C Plant",
+    "asset_name": "ARK-A/C Plant",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-RO Plant",
+    "asset_code": "CPM-RO Plant",
+    "asset_name": "CPM-RO Plant",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_code": "ARK-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_name": "ARK-Air Conditioner / AC Plant / FCU / AHU",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-DG Set & AMF Panel",
+    "asset_code": "BAG-DG Set & AMF Panel",
+    "asset_name": "BAG-DG Set & AMF Panel",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Drain Lines / Grease Trap",
+    "asset_code": "AKA-Drain Lines / Grease Trap",
+    "asset_name": "AKA-Drain Lines / Grease Trap",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_code": "BAG-Air Conditioner / AC Plant / FCU / AHU",
+    "asset_name": "BAG-Air Conditioner / AC Plant / FCU / AHU",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-WIC",
+    "asset_code": "AKA-WIC",
+    "asset_name": "AKA-WIC",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Tortila Press",
+    "asset_code": "CAR-Tortila Press",
+    "asset_name": "CAR-Tortila Press",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Fryers",
+    "asset_code": "ADM-Fryers",
+    "asset_name": "ADM-Fryers",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Kitchen Exhaust Fan",
+    "asset_code": "ATL-Kitchen Exhaust Fan",
+    "asset_name": "ATL-Kitchen Exhaust Fan",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Fire Extingushers",
+    "asset_code": "ADM-Fire Extingushers",
+    "asset_name": "ADM-Fire Extingushers",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Kitchen Exhaust Fan",
+    "asset_code": "ARK-Kitchen Exhaust Fan",
+    "asset_name": "ARK-Kitchen Exhaust Fan",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ATL-Chest Freezer",
+    "asset_code": "ATL-Chest Freezer",
+    "asset_name": "ATL-Chest Freezer",
+    "outlet": "ATL"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Drain Lines / Grease Trap",
+    "asset_code": "ANN-Drain Lines / Grease Trap",
+    "asset_name": "ANN-Drain Lines / Grease Trap",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Fryers",
+    "asset_code": "WST-Fryers",
+    "asset_name": "WST-Fryers",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Ice Cube Machine",
+    "asset_code": "ANN-Ice Cube Machine",
+    "asset_name": "ANN-Ice Cube Machine",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-Drain Lines / Grease Trap",
+    "asset_code": "ADM-Drain Lines / Grease Trap",
+    "asset_name": "ADM-Drain Lines / Grease Trap",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-RO Plant",
+    "asset_code": "BTG-RO Plant",
+    "asset_name": "BTG-RO Plant",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Fryers",
+    "asset_code": "BTG-Fryers",
+    "asset_name": "BTG-Fryers",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Tortila Press",
+    "asset_code": "ANN-Tortila Press",
+    "asset_name": "ANN-Tortila Press",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Kitchen Exhaust Fan",
+    "asset_code": "AKA-Kitchen Exhaust Fan",
+    "asset_name": "AKA-Kitchen Exhaust Fan",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Hot Line/Warmer",
+    "asset_code": "CAR-Hot Line/Warmer",
+    "asset_name": "CAR-Hot Line/Warmer",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "AKA-Tortila Press",
+    "asset_code": "AKA-Tortila Press",
+    "asset_name": "AKA-Tortila Press",
+    "outlet": "AKA"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-RO Plant",
+    "asset_code": "ADM-RO Plant",
+    "asset_name": "ADM-RO Plant",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Drain Lines / Grease Trap",
+    "asset_code": "BAG-Drain Lines / Grease Trap",
+    "asset_name": "BAG-Drain Lines / Grease Trap",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-DG Set & AMF Panel",
+    "asset_code": "CAR-DG Set & AMF Panel",
+    "asset_name": "CAR-DG Set & AMF Panel",
+    "outlet": "CAR"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-Tortila Press",
+    "asset_code": "ARK-Tortila Press",
+    "asset_name": "ARK-Tortila Press",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Fryers",
+    "asset_code": "ANN-Fryers",
+    "asset_name": "ANN-Fryers",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-Hot Line/Warmer",
+    "asset_code": "WST-Hot Line/Warmer",
+    "asset_name": "WST-Hot Line/Warmer",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-Fire Ext.",
+    "asset_code": "BTG-Fire Ext.",
+    "asset_name": "BTG-Fire Ext.",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-AC",
+    "asset_code": "ANN-AC",
+    "asset_name": "ANN-AC",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BAG-Fryers",
+    "asset_code": "BAG-Fryers",
+    "asset_name": "BAG-Fryers",
+    "outlet": "BAG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-Hot Line/Warmer",
+    "asset_code": "ANN-Hot Line/Warmer",
+    "asset_name": "ANN-Hot Line/Warmer",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ADM-DG Set & AMF Panel",
+    "asset_code": "ADM-DG Set & AMF Panel",
+    "asset_name": "ADM-DG Set & AMF Panel",
+    "outlet": "ADM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-A/C Plant",
+    "asset_code": "CPM-A/C Plant",
+    "asset_name": "CPM-A/C Plant",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ARK-DG Set & AMF Panel",
+    "asset_code": "ARK-DG Set & AMF Panel",
+    "asset_name": "ARK-DG Set & AMF Panel",
+    "outlet": "ARK"
+  },
+  {
+    "doctype": "Asset",
+    "name": "BTG-WIC",
+    "asset_code": "BTG-WIC",
+    "asset_name": "BTG-WIC",
+    "outlet": "BTG"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CPM-Kitchen Exhaust Fan",
+    "asset_code": "CPM-Kitchen Exhaust Fan",
+    "asset_name": "CPM-Kitchen Exhaust Fan",
+    "outlet": "CPM"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-WIC",
+    "asset_code": "ANN-WIC",
+    "asset_name": "ANN-WIC",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "WST-DG Set & AMF Panel",
+    "asset_code": "WST-DG Set & AMF Panel",
+    "asset_name": "WST-DG Set & AMF Panel",
+    "outlet": "WST"
+  },
+  {
+    "doctype": "Asset",
+    "name": "ANN-RO Plant",
+    "asset_code": "ANN-RO Plant",
+    "asset_name": "ANN-RO Plant",
+    "outlet": "ANN"
+  },
+  {
+    "doctype": "Asset",
+    "name": "CAR-Fire Extinguisher",
+    "asset_code": "CAR-Fire Extinguisher",
+    "asset_name": "CAR-Fire Extinguisher",
+    "outlet": "CAR"
+  }
+]

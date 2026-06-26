@@ -1,0 +1,282 @@
+[
+  {
+    "doctype": "Maintenance Program",
+    "name": "Chest Freezer - Qtrly",
+    "program_name": "Chest Freezer - Qtrly",
+    "asset_category": "Chest Freezer",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Walk-IN Chiller - Qtrly",
+    "program_name": "Walk-IN Chiller - Qtrly",
+    "asset_category": "Walk-IN Chiller",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "A/C Plant - 6 month",
+    "program_name": "A/C Plant - 6 month",
+    "asset_category": "A/C Plant",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Walk in Chiller - Qtrly",
+    "program_name": "Walk in Chiller - Qtrly",
+    "asset_category": "Walk in Chiller",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Tortila Press - 6 month",
+    "program_name": "Tortila Press - 6 month",
+    "asset_category": "Tortila Press",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "RO Plant - Qtrly",
+    "program_name": "RO Plant - Qtrly",
+    "asset_category": "RO Plant",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Hot Line/Warmer - Qtrly",
+    "program_name": "Hot Line/Warmer - Qtrly",
+    "asset_category": "Hot Line/Warmer",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Walk-IN Chiller - Monthly",
+    "program_name": "Walk-IN Chiller - Monthly",
+    "asset_category": "Walk-IN Chiller",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fire Ext. - Monthly",
+    "program_name": "Fire Ext. - Monthly",
+    "asset_category": "Fire Ext.",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Air Conditioner / AC Plant / FCU / AHU - Qtrly",
+    "program_name": "Air Conditioner / AC Plant / FCU / AHU - Qtrly",
+    "asset_category": "Air Conditioner / AC Plant / FCU / AHU",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Walk in Chiller - Monthly",
+    "program_name": "Walk in Chiller - Monthly",
+    "asset_category": "Walk in Chiller",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Aircon Unit - Monthly",
+    "program_name": "Aircon Unit - Monthly",
+    "asset_category": "Aircon Unit",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Air Conditioner / AC Plant / FCU / AHU - Monthly",
+    "program_name": "Air Conditioner / AC Plant / FCU / AHU - Monthly",
+    "asset_category": "Air Conditioner / AC Plant / FCU / AHU",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Kitchen Exhaust Fan - Qtrly",
+    "program_name": "Kitchen Exhaust Fan - Qtrly",
+    "asset_category": "Kitchen Exhaust Fan",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fire Extingushers - Monthly",
+    "program_name": "Fire Extingushers - Monthly",
+    "asset_category": "Fire Extingushers",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Chest Freezer - Monthly",
+    "program_name": "Chest Freezer - Monthly",
+    "asset_category": "Chest Freezer",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Ice Cube Machine - Monthly",
+    "program_name": "Ice Cube Machine - Monthly",
+    "asset_category": "Ice Cube Machine",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Drain Lines / Grease Trap - Monthly",
+    "program_name": "Drain Lines / Grease Trap - Monthly",
+    "asset_category": "Drain Lines / Grease Trap",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "RO Plant - Monthly",
+    "program_name": "RO Plant - Monthly",
+    "asset_category": "RO Plant",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Tortila Press - Qtrly",
+    "program_name": "Tortila Press - Qtrly",
+    "asset_category": "Tortila Press",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Drain Lines / Grease Trap - Weekly",
+    "program_name": "Drain Lines / Grease Trap - Weekly",
+    "asset_category": "Drain Lines / Grease Trap",
+    "frequency": "Weekly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "DG Set & AMF Panel - Qtrly",
+    "program_name": "DG Set & AMF Panel - Qtrly",
+    "asset_category": "DG Set & AMF Panel",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Tortila Press - Monthly",
+    "program_name": "Tortila Press - Monthly",
+    "asset_category": "Tortila Press",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fryers - Monthly",
+    "program_name": "Fryers - Monthly",
+    "asset_category": "Fryers",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fire Ext. - Yearly",
+    "program_name": "Fire Ext. - Yearly",
+    "asset_category": "Fire Ext.",
+    "frequency": "Yearly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "AC - Monthly",
+    "program_name": "AC - Monthly",
+    "asset_category": "AC",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fryers - Qtrly",
+    "program_name": "Fryers - Qtrly",
+    "asset_category": "Fryers",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Hot Line/Warmer - Monthly",
+    "program_name": "Hot Line/Warmer - Monthly",
+    "asset_category": "Hot Line/Warmer",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "A/C Plant - Monthly",
+    "program_name": "A/C Plant - Monthly",
+    "asset_category": "A/C Plant",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "DG Set & AMF Panel - Monthly",
+    "program_name": "DG Set & AMF Panel - Monthly",
+    "asset_category": "DG Set & AMF Panel",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Kitchen Exhaust Fan - Monthly",
+    "program_name": "Kitchen Exhaust Fan - Monthly",
+    "asset_category": "Kitchen Exhaust Fan",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "WIC - Monthly",
+    "program_name": "WIC - Monthly",
+    "asset_category": "WIC",
+    "frequency": "Monthly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "DG Set & AMF Panel - Yearly",
+    "program_name": "DG Set & AMF Panel - Yearly",
+    "asset_category": "DG Set & AMF Panel",
+    "frequency": "Yearly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "RO Plant - Weekly",
+    "program_name": "RO Plant - Weekly",
+    "asset_category": "RO Plant",
+    "frequency": "Weekly",
+    "active": 1
+  },
+  {
+    "doctype": "Maintenance Program",
+    "name": "Fire Extinguisher - Monthly",
+    "program_name": "Fire Extinguisher - Monthly",
+    "asset_category": "Fire Extinguisher",
+    "frequency": "Monthly",
+    "active": 1
+  }
+]

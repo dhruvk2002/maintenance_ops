@@ -1,0 +1,135 @@
+[
+  {
+    "doctype": "Asset Category",
+    "name": "Walk-IN Chiller",
+    "category_name": "Walk-IN Chiller",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Walk in Chiller",
+    "category_name": "Walk in Chiller",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "WIC",
+    "category_name": "WIC",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Tortila Press",
+    "category_name": "Tortila Press",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "RO Plant",
+    "category_name": "RO Plant",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Kitchen Exhaust Fan",
+    "category_name": "Kitchen Exhaust Fan",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Ice Cube Machine",
+    "category_name": "Ice Cube Machine",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Hot Line/Warmer",
+    "category_name": "Hot Line/Warmer",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Fryers",
+    "category_name": "Fryers",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Fire Extingushers",
+    "category_name": "Fire Extingushers",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Fire Extinguisher",
+    "category_name": "Fire Extinguisher",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Fire Ext.",
+    "category_name": "Fire Ext.",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Drain Lines / Grease Trap",
+    "category_name": "Drain Lines / Grease Trap",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "DG Set & AMF Panel",
+    "category_name": "DG Set & AMF Panel",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Chest Freezer",
+    "category_name": "Chest Freezer",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Aircon Unit",
+    "category_name": "Aircon Unit",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "Air Conditioner / AC Plant / FCU / AHU",
+    "category_name": "Air Conditioner / AC Plant / FCU / AHU",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "AC",
+    "category_name": "AC",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  },
+  {
+    "doctype": "Asset Category",
+    "name": "A/C Plant",
+    "category_name": "A/C Plant",
+    "description": "Seeded from PM tracker",
+    "active": 1
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Pune",
+    "office_name": "Zonal Office - Pune",
+    "city": "Pune",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Mumbai",
+    "office_name": "Zonal Office - Mumbai",
+    "city": "Bengaluru",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Hyderabad",
+    "office_name": "Zonal Office - Hyderabad",
+    "city": "Hyderabad",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Delhi/NCR",
+    "office_name": "Zonal Office - Delhi/NCR",
+    "city": "Delhi/NCR",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Chennai",
+    "office_name": "Zonal Office - Chennai",
+    "city": "Chennai",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "Zonal Office - Bengaluru",
+    "office_name": "Zonal Office - Bengaluru",
+    "city": "Bengaluru",
+    "active": 1
+  },
+  {
+    "doctype": "Zonal Office",
+    "name": "COR",
+    "office_name": "COR",
+    "city": "Bengaluru",
+    "active": 1
+  }
+]

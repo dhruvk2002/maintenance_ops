@@ -1,0 +1,37 @@
+[
+  {
+    "doctype": "City",
+    "name": "Pune",
+    "city_name": "Pune",
+    "short_code": "PUN",
+    "active": 1
+  },
+  {
+    "doctype": "City",
+    "name": "Hyderabad",
+    "city_name": "Hyderabad",
+    "short_code": "HYD",
+    "active": 1
+  },
+  {
+    "doctype": "City",
+    "name": "Delhi/NCR",
+    "city_name": "Delhi/NCR",
+    "short_code": "DEL",
+    "active": 1
+  },
+  {
+    "doctype": "City",
+    "name": "Chennai",
+    "city_name": "Chennai",
+    "short_code": "CHE",
+    "active": 1
+  },
+  {
+    "doctype": "City",
+    "name": "Bengaluru",
+    "city_name": "Bengaluru",
+    "short_code": "BEN",
+    "active": 1
+  }
+]
