@@ -1,0 +1,40 @@
+{
+  "doctype": "DocType",
+  "name": "Maintenance Program Task",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 1,
+  "editable_grid": 1,
+  "fields": [
+    {
+      "fieldname": "task_name",
+      "fieldtype": "Data",
+      "label": "Task Name",
+      "req": 1
+    },
+    {
+      "fieldname": "checklist_instructions",
+      "fieldtype": "Small Text",
+      "label": "Checklist Instructions"
+    },
+    {
+      "fieldname": "expected_result",
+      "fieldtype": "Data",
+      "label": "Expected Result"
+    },
+    {
+      "fieldname": "mandatory",
+      "fieldtype": "Check",
+      "label": "Mandatory",
+      "default": "1"
+    },
+    {
+      "fieldname": "sort_order",
+      "fieldtype": "Int",
+      "label": "Sort Order",
+      "default": 0
+    }
+  ],
+  "autoname": "hash",
+  "track_changes": 1
+}

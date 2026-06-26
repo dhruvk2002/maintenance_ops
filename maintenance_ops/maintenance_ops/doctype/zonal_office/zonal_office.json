@@ -1,0 +1,37 @@
+{
+  "doctype": "DocType",
+  "name": "Zonal Office",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "office_name",
+      "fieldtype": "Data",
+      "label": "Office Name",
+      "req": 1
+    },
+    {
+      "fieldname": "city",
+      "fieldtype": "Link",
+      "label": "City",
+      "options": "City",
+      "req": 1
+    },
+    {
+      "fieldname": "manager",
+      "fieldtype": "Link",
+      "label": "Manager",
+      "options": "Maintenance Team Member"
+    },
+    {
+      "fieldname": "active",
+      "fieldtype": "Check",
+      "label": "Active",
+      "default": "1"
+    }
+  ],
+  "autoname": "field:office_name",
+  "track_changes": 1
+}

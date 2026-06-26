@@ -1,0 +1,104 @@
+{
+  "doctype": "DocType",
+  "name": "Maintenance Work Order",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "work_order_type",
+      "fieldtype": "Select",
+      "label": "Work Order Type",
+      "options": "Preventive\nReactive",
+      "req": 1
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Draft\nOpen\nDue\nOverdue\nIn Progress\nCompleted\nClosed\nCancelled",
+      "default": "Draft"
+    },
+    {
+      "fieldname": "outlet",
+      "fieldtype": "Link",
+      "label": "Outlet",
+      "options": "Outlet",
+      "req": 1
+    },
+    {
+      "fieldname": "asset",
+      "fieldtype": "Link",
+      "label": "Asset",
+      "options": "Asset",
+      "req": 1
+    },
+    {
+      "fieldname": "asset_category",
+      "fieldtype": "Link",
+      "label": "Asset Category",
+      "options": "Asset Category",
+      "req": 1
+    },
+    {
+      "fieldname": "source_program",
+      "fieldtype": "Link",
+      "label": "Source Program",
+      "options": "Maintenance Program"
+    },
+    {
+      "fieldname": "source_ticket",
+      "fieldtype": "Link",
+      "label": "Source Ticket",
+      "options": "Maintenance Ticket"
+    },
+    {
+      "fieldname": "due_date",
+      "fieldtype": "Date",
+      "label": "Due Date"
+    },
+    {
+      "fieldname": "completed_date",
+      "fieldtype": "Date",
+      "label": "Completed Date"
+    },
+    {
+      "fieldname": "assigned_to",
+      "fieldtype": "Link",
+      "label": "Assigned To",
+      "options": "Maintenance Team Member"
+    },
+    {
+      "fieldname": "priority",
+      "fieldtype": "Select",
+      "label": "Priority",
+      "options": "Low\nMedium\nHigh\nCritical",
+      "default": "Medium"
+    },
+    {
+      "fieldname": "remarks",
+      "fieldtype": "Small Text",
+      "label": "Remarks"
+    },
+    {
+      "fieldname": "completion_notes",
+      "fieldtype": "Small Text",
+      "label": "Completion Notes"
+    },
+    {
+      "fieldname": "outcome",
+      "fieldtype": "Select",
+      "label": "Outcome",
+      "options": "Pass\nFail\nPartial\nNot Applicable"
+    },
+    {
+      "fieldname": "checklist_results",
+      "fieldtype": "Table",
+      "label": "Work Order Checklist Result",
+      "options": "Work Order Checklist Result"
+    }
+  ],
+  "autoname": "hash",
+  "track_changes": 1
+}

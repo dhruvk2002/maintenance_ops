@@ -1,0 +1,49 @@
+{
+  "doctype": "DocType",
+  "name": "Exception Record",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "source_file",
+      "fieldtype": "Data",
+      "label": "Source File",
+      "req": 1
+    },
+    {
+      "fieldname": "source_row_number",
+      "fieldtype": "Int",
+      "label": "Source Row Number",
+      "req": 1
+    },
+    {
+      "fieldname": "source_payload",
+      "fieldtype": "Long Text",
+      "label": "Source Payload",
+      "req": 1
+    },
+    {
+      "fieldname": "issue_type",
+      "fieldtype": "Data",
+      "label": "Issue Type",
+      "req": 1
+    },
+    {
+      "fieldname": "issue_message",
+      "fieldtype": "Small Text",
+      "label": "Issue Message",
+      "req": 1
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Open\nReview\nResolved",
+      "default": "Open"
+    }
+  ],
+  "autoname": "hash",
+  "track_changes": 1
+}

@@ -1,0 +1,29 @@
+{
+  "doctype": "DocType",
+  "name": "City",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "city_name",
+      "fieldtype": "Data",
+      "label": "City Name",
+      "req": 1
+    },
+    {
+      "fieldname": "short_code",
+      "fieldtype": "Data",
+      "label": "Short Code"
+    },
+    {
+      "fieldname": "active",
+      "fieldtype": "Check",
+      "label": "Active",
+      "default": "1"
+    }
+  ],
+  "autoname": "field:city_name",
+  "track_changes": 1
+}
