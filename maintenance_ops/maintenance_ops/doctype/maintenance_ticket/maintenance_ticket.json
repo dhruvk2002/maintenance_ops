@@ -1,0 +1,87 @@
+{
+  "doctype": "DocType",
+  "name": "Maintenance Ticket",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "ticket_no",
+      "fieldtype": "Data",
+      "label": "Ticket No"
+    },
+    {
+      "fieldname": "outlet",
+      "fieldtype": "Link",
+      "label": "Outlet",
+      "options": "Outlet",
+      "req": 1
+    },
+    {
+      "fieldname": "asset",
+      "fieldtype": "Link",
+      "label": "Asset",
+      "options": "Asset"
+    },
+    {
+      "fieldname": "asset_category",
+      "fieldtype": "Link",
+      "label": "Asset Category",
+      "options": "Asset Category"
+    },
+    {
+      "fieldname": "department",
+      "fieldtype": "Data",
+      "label": "Department"
+    },
+    {
+      "fieldname": "category",
+      "fieldtype": "Data",
+      "label": "Category"
+    },
+    {
+      "fieldname": "sub_category_1",
+      "fieldtype": "Data",
+      "label": "Sub Category 1"
+    },
+    {
+      "fieldname": "sub_category_2",
+      "fieldtype": "Data",
+      "label": "Sub Category 2"
+    },
+    {
+      "fieldname": "issue_summary",
+      "fieldtype": "Data",
+      "label": "Issue Summary",
+      "req": 1
+    },
+    {
+      "fieldname": "issue_details",
+      "fieldtype": "Small Text",
+      "label": "Issue Details"
+    },
+    {
+      "fieldname": "priority",
+      "fieldtype": "Select",
+      "label": "Priority",
+      "options": "Low\nMedium\nHigh\nCritical",
+      "default": "Medium"
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Open\nAssigned\nIn Progress\nResolved\nClosed\nCancelled",
+      "default": "Open"
+    },
+    {
+      "fieldname": "linked_work_order",
+      "fieldtype": "Link",
+      "label": "Linked Work Order",
+      "options": "Maintenance Work Order"
+    }
+  ],
+  "autoname": "hash",
+  "track_changes": 1
+}

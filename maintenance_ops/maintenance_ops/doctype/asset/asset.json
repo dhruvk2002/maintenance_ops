@@ -1,0 +1,54 @@
+{
+  "doctype": "DocType",
+  "name": "Asset",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "asset_name",
+      "fieldtype": "Data",
+      "label": "Asset Name",
+      "req": 1
+    },
+    {
+      "fieldname": "asset_code",
+      "fieldtype": "Data",
+      "label": "Asset Code"
+    },
+    {
+      "fieldname": "outlet",
+      "fieldtype": "Link",
+      "label": "Outlet",
+      "options": "Outlet",
+      "req": 1
+    },
+    {
+      "fieldname": "category",
+      "fieldtype": "Link",
+      "label": "Category",
+      "options": "Asset Category",
+      "req": 1
+    },
+    {
+      "fieldname": "serial_no",
+      "fieldtype": "Data",
+      "label": "Serial No"
+    },
+    {
+      "fieldname": "install_date",
+      "fieldtype": "Date",
+      "label": "Install Date"
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Active\nInactive\nUnder Repair\nRetired",
+      "default": "Active"
+    }
+  ],
+  "autoname": "field:asset_name",
+  "track_changes": 1
+}

@@ -1,0 +1,62 @@
+{
+  "doctype": "DocType",
+  "name": "Maintenance Team Member",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 0,
+  "editable_grid": 0,
+  "fields": [
+    {
+      "fieldname": "employee_no",
+      "fieldtype": "Data",
+      "label": "Employee No",
+      "req": 1
+    },
+    {
+      "fieldname": "employee_name",
+      "fieldtype": "Data",
+      "label": "Employee Name",
+      "req": 1
+    },
+    {
+      "fieldname": "job_title",
+      "fieldtype": "Data",
+      "label": "Job Title"
+    },
+    {
+      "fieldname": "department",
+      "fieldtype": "Data",
+      "label": "Department"
+    },
+    {
+      "fieldname": "email",
+      "fieldtype": "Data",
+      "label": "Email"
+    },
+    {
+      "fieldname": "mobile",
+      "fieldtype": "Data",
+      "label": "Mobile"
+    },
+    {
+      "fieldname": "reports_to",
+      "fieldtype": "Link",
+      "label": "Reports To",
+      "options": "Maintenance Team Member"
+    },
+    {
+      "fieldname": "home_office",
+      "fieldtype": "Link",
+      "label": "Home Office",
+      "options": "Zonal Office"
+    },
+    {
+      "fieldname": "active",
+      "fieldtype": "Check",
+      "label": "Active",
+      "default": "1"
+    }
+  ],
+  "autoname": "field:employee_no",
+  "track_changes": 1
+}

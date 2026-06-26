@@ -1,0 +1,36 @@
+{
+  "doctype": "DocType",
+  "name": "Work Order Checklist Result",
+  "module": "Maintenance Ops",
+  "custom": 0,
+  "istable": 1,
+  "editable_grid": 1,
+  "fields": [
+    {
+      "fieldname": "checklist_item",
+      "fieldtype": "Data",
+      "label": "Checklist Item",
+      "req": 1
+    },
+    {
+      "fieldname": "result",
+      "fieldtype": "Select",
+      "label": "Result",
+      "options": "Pass\nFail\nPartial\nNot Applicable",
+      "req": 1
+    },
+    {
+      "fieldname": "notes",
+      "fieldtype": "Small Text",
+      "label": "Notes"
+    },
+    {
+      "fieldname": "failed",
+      "fieldtype": "Check",
+      "label": "Failed",
+      "default": "0"
+    }
+  ],
+  "autoname": "hash",
+  "track_changes": 1
+}
