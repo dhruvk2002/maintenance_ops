@@ -9,7 +9,7 @@ It manages outlets, assets, preventive-maintenance (PM) programs, reactive ticke
 
 | Item                  | Value                                         |
 | --------------------- | --------------------------------------------- |
-| **Cloud URL**   | https://assesment.m.frappe.cloud              |
+| **Cloud URL**   | https://maintainance.m.frappe.cloud           |
 | Email                 | deepikasinghns1@gmail.com                     |
 | **Password**    | Cbassesment@2026                              |
 | **GitHub Repo** | https://github.com/dhruvk2002/maintenance_ops |

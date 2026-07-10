@@ -20,3 +20,5 @@ doc_events = {
 		"validate": "maintenance_ops.events.on_work_order_validate",
 	},
 }
+
+on_session_creation = "maintenance_ops.ui.set_maintenance_home_page"
